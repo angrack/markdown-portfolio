@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Angie's dog Picture] (C:\Users\angie\Desktop\Desktop\Pictures\Julia.jpg)
