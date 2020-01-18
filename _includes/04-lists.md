@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## Favorite Foods
+* Bacon & Eggs
+* Pizza
+  * Chicago style
+  * Chicken Alfredo
+* Croissant
+:smile:
